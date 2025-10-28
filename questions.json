@@ -1,0 +1,384 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["London", "Berlin", "Paris", "Madrid"],
+      "correct": 2,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 2,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+      "correct": 1,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 3,
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Saturn", "Jupiter", "Neptune", "Earth"],
+      "correct": 1,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 4,
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correct": 2,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 5,
+      "question": "What is the smallest country in the world?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "correct": 1,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 6,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "correct": 1,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 7,
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correct": 2,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 8,
+      "question": "How many continents are there?",
+      "options": ["5", "6", "7", "8"],
+      "correct": 2,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 9,
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "correct": 1,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 10,
+      "question": "Who invented the telephone?",
+      "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Benjamin Franklin"],
+      "correct": 2,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 11,
+      "question": "What is the tallest mountain in the world?",
+      "options": ["K2", "Mount Everest", "Kangchenjunga", "Makalu"],
+      "correct": 1,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 12,
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Platinum"],
+      "correct": 2,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 13,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct": 1,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 14,
+      "question": "How many bones are in the adult human body?",
+      "options": ["186", "206", "226", "246"],
+      "correct": 1,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 15,
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Won", "Yen", "Ringgit"],
+      "correct": 2,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 16,
+      "question": "Who was the first person to walk on the moon?",
+      "options": ["Buzz Aldrin", "Neil Armstrong", "Yuri Gagarin", "John Glenn"],
+      "correct": 1,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 17,
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correct": 3,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 18,
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Osmium", "Oxygen", "Oganesson", "Oxide"],
+      "correct": 1,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 19,
+      "question": "What year did the Titanic sink?",
+      "options": ["1910", "1911", "1912", "1913"],
+      "correct": 2,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 20,
+      "question": "What is the speed of light?",
+      "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+      "correct": 0,
+      "category": "General Knowledge"
+    },
+    {
+      "id": 21,
+      "question": "How many players are there in a cricket team?",
+      "options": ["10", "11", "12", "13"],
+      "correct": 1,
+      "category": "Sports"
+    },
+    {
+      "id": 22,
+      "question": "Which country has won the most FIFA World Cups?",
+      "options": ["Germany", "Argentina", "Brazil", "Italy"],
+      "correct": 2,
+      "category": "Sports"
+    },
+    {
+      "id": 23,
+      "question": "In which sport would you perform a slam dunk?",
+      "options": ["Volleyball", "Basketball", "Tennis", "Badminton"],
+      "correct": 1,
+      "category": "Sports"
+    },
+    {
+      "id": 24,
+      "question": "How many Grand Slam tournaments are there in tennis?",
+      "options": ["3", "4", "5", "6"],
+      "correct": 1,
+      "category": "Sports"
+    },
+    {
+      "id": 25,
+      "question": "What is the diameter of a basketball hoop in inches?",
+      "options": ["16", "18", "20", "22"],
+      "correct": 1,
+      "category": "Sports"
+    },
+    {
+      "id": 26,
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "options": ["China", "UK", "Brazil", "Japan"],
+      "correct": 2,
+      "category": "Sports"
+    },
+    {
+      "id": 27,
+      "question": "Who is known as 'The King of Football'?",
+      "options": ["Diego Maradona", "Lionel Messi", "Cristiano Ronaldo", "Pelé"],
+      "correct": 3,
+      "category": "Sports"
+    },
+    {
+      "id": 28,
+      "question": "In which sport is the term 'love' used?",
+      "options": ["Cricket", "Tennis", "Golf", "Badminton"],
+      "correct": 1,
+      "category": "Sports"
+    },
+    {
+      "id": 29,
+      "question": "How many runs is a century in cricket?",
+      "options": ["50", "75", "100", "150"],
+      "correct": 2,
+      "category": "Sports"
+    },
+    {
+      "id": 30,
+      "question": "Which athlete is known as 'Lightning Bolt'?",
+      "options": ["Carl Lewis", "Usain Bolt", "Mo Farah", "Jesse Owens"],
+      "correct": 1,
+      "category": "Sports"
+    },
+    {
+      "id": 31,
+      "question": "What is the national sport of India?",
+      "options": ["Cricket", "Hockey", "Kabaddi", "Football"],
+      "correct": 1,
+      "category": "Sports"
+    },
+    {
+      "id": 32,
+      "question": "How many players are on a football (soccer) team on the field?",
+      "options": ["9", "10", "11", "12"],
+      "correct": 2,
+      "category": "Sports"
+    },
+    {
+      "id": 33,
+      "question": "Which sport is associated with Wimbledon?",
+      "options": ["Cricket", "Tennis", "Golf", "Rugby"],
+      "correct": 1,
+      "category": "Sports"
+    },
+    {
+      "id": 34,
+      "question": "What is the maximum score in a single frame of bowling?",
+      "options": ["300", "200", "150", "100"],
+      "correct": 0,
+      "category": "Sports"
+    },
+    {
+      "id": 35,
+      "question": "In which year were the first modern Olympic Games held?",
+      "options": ["1892", "1896", "1900", "1904"],
+      "correct": 1,
+      "category": "Sports"
+    },
+    {
+      "id": 36,
+      "question": "Who is known as the 'King of Bollywood'?",
+      "options": ["Amitabh Bachchan", "Shah Rukh Khan", "Salman Khan", "Aamir Khan"],
+      "correct": 1,
+      "category": "Bollywood"
+    },
+    {
+      "id": 37,
+      "question": "Which was the first Indian film to be nominated for an Oscar?",
+      "options": ["Lagaan", "Mother India", "Slumdog Millionaire", "Salaam Bombay"],
+      "correct": 1,
+      "category": "Bollywood"
+    },
+    {
+      "id": 38,
+      "question": "Who directed the movie '3 Idiots'?",
+      "options": ["Karan Johar", "Rajkumar Hirani", "Sanjay Leela Bhansali", "Zoya Akhtar"],
+      "correct": 1,
+      "category": "Bollywood"
+    },
+    {
+      "id": 39,
+      "question": "Which Bollywood actress won the Miss World title in 1994?",
+      "options": ["Sushmita Sen", "Aishwarya Rai", "Priyanka Chopra", "Lara Dutta"],
+      "correct": 1,
+      "category": "Bollywood"
+    },
+    {
+      "id": 40,
+      "question": "What is the name of Amitabh Bachchan's character in 'Sholay'?",
+      "options": ["Vijay", "Jai", "Anthony", "Ravi"],
+      "correct": 1,
+      "category": "Bollywood"
+    },
+    {
+      "id": 41,
+      "question": "Which movie won the National Film Award for Best Feature Film in 2023?",
+      "options": ["RRR", "Pathaan", "Brahmastra", "Kantara"],
+      "correct": 0,
+      "category": "Bollywood"
+    },
+    {
+      "id": 42,
+      "question": "Who composed the music for 'Dilwale Dulhania Le Jayenge'?",
+      "options": ["A.R. Rahman", "Jatin-Lalit", "Nadeem-Shravan", "Anu Malik"],
+      "correct": 1,
+      "category": "Bollywood"
+    },
+    {
+      "id": 43,
+      "question": "Which actress played the lead role in 'Queen'?",
+      "options": ["Deepika Padukone", "Kangana Ranaut", "Alia Bhatt", "Vidya Balan"],
+      "correct": 1,
+      "category": "Bollywood"
+    },
+    {
+      "id": 44,
+      "question": "In which year was the first Indian talkie film 'Alam Ara' released?",
+      "options": ["1927", "1929", "1931", "1933"],
+      "correct": 2,
+      "category": "Bollywood"
+    },
+    {
+      "id": 45,
+      "question": "Who is the director of 'Lagaan'?",
+      "options": ["Ashutosh Gowariker", "Rakeysh Omprakash Mehra", "Farhan Akhtar", "Anurag Kashyap"],
+      "correct": 0,
+      "category": "Bollywood"
+    },
+    {
+      "id": 46,
+      "question": "Which actor played the role of 'Mogambo' in 'Mr. India'?",
+      "options": ["Pran", "Amrish Puri", "Kulbhushan Kharbanda", "Anupam Kher"],
+      "correct": 1,
+      "category": "Bollywood"
+    },
+    {
+      "id": 47,
+      "question": "What is the real name of actress Rekha?",
+      "options": ["Bhanurekha Ganesan", "Rekha Sharma", "Rekha Kapoor", "Rekha Verma"],
+      "correct": 0,
+      "category": "Bollywood"
+    },
+    {
+      "id": 48,
+      "question": "Which movie featured the song 'Chaiyya Chaiyya'?",
+      "options": ["Dilwale Dulhania Le Jayenge", "Kuch Kuch Hota Hai", "Dil Se", "Kabhi Khushi Kabhie Gham"],
+      "correct": 2,
+      "category": "Bollywood"
+    },
+    {
+      "id": 49,
+      "question": "Who won the Best Actor award at Filmfare for 'Dangal'?",
+      "options": ["Shah Rukh Khan", "Aamir Khan", "Salman Khan", "Hrithik Roshan"],
+      "correct": 1,
+      "category": "Bollywood"
+    },
+    {
+      "id": 50,
+      "question": "Which Bollywood film is the highest-grossing Indian film of all time?",
+      "options": ["Baahubali 2", "Dangal", "PK", "Bajrangi Bhaijaan"],
+      "correct": 1,
+      "category": "Bollywood"
+    },
+    {
+    "question": "What is the national flower of India?",
+    "options": ["Rose", "Lily", "Lotus", "Marigold"],
+    "answer": "Lotus"
+  },
+  {
+    "question": "Who is known as the 'Missile Man of India'?",
+    "options": ["Dr. A.P.J. Abdul Kalam", "C.V. Raman", "Homi Bhabha", "Vikram Sarabhai"],
+    "answer": "Dr. A.P.J. Abdul Kalam"
+  },
+  {
+    "question": "Who is known as the 'Flying Sikh'?",
+    "options": ["Milkha Singh", "P.T. Usha", "Usain Bolt", "Kapil Dev"],
+    "answer": "Milkha Singh"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Diamond", "Iron", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Alexander Fleming", "Louis Pasteur", "Marie Curie", "Edward Jenner"],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "Which vitamin is produced when sunlight hits the skin?",
+    "options": ["Vitamin A", "Vitamin D", "Vitamin C", "Vitamin E"],
+    "answer": "Vitamin D"
+  }
+  ]
+}

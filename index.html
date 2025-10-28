@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Quiz Challenge</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="quiz-header">
+            <h1>Ultimate Quiz Challenge</h1>
+            <div class="progress-bar">
+                <div class="progress" id="progress"></div>
+            </div>
+            <div class="stats">
+                <span>Question <span id="current-question">1</span> of <span id="total-questions">10</span></span>
+                <span>Score: <span id="score">0</span></span>
+            </div>
+        </div>
+
+        <div id="start-screen" class="screen active">
+            <h2>Welcome to the Ultimate Quiz!</h2>
+            
+            <button id="start-btn" class="btn btn-primary">Loading Questions...</button>
+        </div>
+
+        <div id="quiz-screen" class="screen">
+            <div class="timer-container">
+                <svg class="timer" width="80" height="80">
+                    <circle cx="40" cy="40" r="35" stroke="#e0e0e0" stroke-width="5" fill="none"></circle>
+                    <circle id="timer-circle" cx="40" cy="40" r="35" stroke="#667eea" stroke-width="5" fill="none" stroke-dasharray="220" stroke-dashoffset="0"></circle>
+                </svg>
+                <div class="timer-text" id="timer-text">15</div>
+            </div>
+            <div class="question-container">
+                <h2 id="question-text"></h2>
+                <div id="options-container" class="options"></div>
+                <button id="next-btn" class="btn btn-primary" style="display: none;">Next Question</button>
+            </div>
+        </div>
+
+        <div id="result-screen" class="screen">
+            <h2>Quiz Complete!</h2>
+            <div class="result-card">
+                <div class="result-score">
+                    <h3>Your Score</h3>
+                    <p class="final-score"><span id="final-score">0</span> / 10</p>
+                    <p class="percentage"><span id="percentage">0</span>%</p>
+                </div>
+                <div class="result-message" id="result-message"></div>
+            </div>
+            <button id="restart-btn" class="btn btn-primary">Restart Quiz</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
